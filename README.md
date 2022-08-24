@@ -1,11 +1,13 @@
 ### Olá eu sou o Patrick!! 👋
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **Patrick2207/Patrick2207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
